@@ -14,7 +14,6 @@
 <a href="https://medium.com/@ratnakar0418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ratnakar0418" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ratna8582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ratna8582" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ratnakar0418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ratnakar0418" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ratna888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ratna888" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xQtvPyBkzP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xQtvPyBkzP" height="30" width="40" /></a>
 </p>
 
