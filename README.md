@@ -51,11 +51,3 @@ Junior at the University of Colorado studying Aerospace Engineering and Computer
 </p>
 
 ---
-
-<h3 align="center">Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratnathegod&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratnathegod&theme=tokyonight" />
-</p>
