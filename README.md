@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ratna Yalagathala</h1>
-
-<h3 align="center">
-Junior at the University of Colorado studying Aerospace Engineering and Computer Science.
-</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ratnathegod&label=Profile%20views&color=0e75b6&style=flat" alt="ratnathegod" />
 </p>
