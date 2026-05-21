@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ratnathegod&label=Profile%20views&color=0e75b6&style=flat" alt="ratnathegod" />
 </p>
----
 
 <h3 align="center">About</h3>
 
