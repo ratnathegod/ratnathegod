@@ -22,15 +22,6 @@
   <a href="https://instagram.com/ratna_yalagathala" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://medium.com/@ratnakar0418" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" height="40" />
-  </a>
-  <a href="https://www.youtube.com/@ratna8582" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ratnakar0418" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
-  </a>
   <a href="https://discord.gg/xQtvPyBkzP" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
